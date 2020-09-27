@@ -6,6 +6,7 @@ public class ProjectileController : MonoBehaviour
 {
     public float speed = 5f;
     public float despawnDistance = 50f;
+    public int damage = 15;
     // Start is called before the first frame update
     void Start()
     {
